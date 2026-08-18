@@ -10,9 +10,9 @@ A Python implementation of single-variable and multiple linear regression models
 ## Technologies Used
 
 - **Language:** Python 3.8+
-- **Array Modeling:** `numpy` (matrix operations and array stacking)
+- **Array Modeling:** `numpy` (matrix operations)
 - **Statistical Modeling:** `scipy` (Pearson correlation and $p$-value computation) and `statsmodels` (multiple regression fitting)
-- **Data Visualization:** `matplotlib` (scatter plot generation)
+- **Data Visualization:** `matplotlib` (graphing scatter plots)
 
 ## Dataset
 
