@@ -16,7 +16,7 @@ A Python implementation of single-variable and multiple linear regression models
 
 ## Dataset
 
-This project utilizes the **Lab Album Sales Dataset** from the `Lab Album Sales.csv` file. 
+This exercise uses the **Lab Album Sales Dataset** from the `Lab Album Sales.csv` file. 
 
 ## Technical Notes
 
